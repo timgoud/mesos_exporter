@@ -1,5 +1,6 @@
 mesos_exporter
 .tarballs
 .build
+.gitlab-ci.yml
 
 *.sw[op]
